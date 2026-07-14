@@ -1,6 +1,9 @@
 # Local design previews and temporary service state
 .superpowers/
 
+# Isolated feature workspaces
+.worktrees/
+
 # Operating-system files
 Thumbs.db
 .DS_Store
